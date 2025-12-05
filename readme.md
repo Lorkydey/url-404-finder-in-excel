@@ -18,7 +18,7 @@ pip install openpyxl aiohttp
 
 ## run
 ```bash
-python excel_404_gui.py
+python check.py
 ```
 
 ## Important
